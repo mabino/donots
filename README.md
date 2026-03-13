@@ -1,4 +1,4 @@
-# notmon
+# Donots
 
 Send an email on receipt of a macOS notification.
 
